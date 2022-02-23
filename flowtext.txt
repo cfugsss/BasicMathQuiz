@@ -1,0 +1,27 @@
+Overview for math game --->
+
+Parameters for game:
+1. 20 or unlim. amount of questions
+2. Each consectuive correct answer adds 1 poiyn to score
+3. keep playing until question is wrong
+    -->when question is incorrect make all buttons non functiuonal until restart
+
+
+/// generating question and showing question
+
+--> Random math question is generated
+    -->show random math question
+            -->use 2 variables for each random number (only numbers 1 - 10) and use dynamic text to imlpement variables in html text
+ 
+
+/// generating answer / wrong answers and implementing them onto buttons
+
+-->use a function to get our correct answer and also generate 2 other numbers 2-20
+    -->somehow implement a way to randomly select which button our correct answer goes to (so the correct answer isnt a every time for example)
+        -->print the other 2 wrong answers on remaining buttons
+
+
+/// When correct answer is clicked
+
+-->
+
